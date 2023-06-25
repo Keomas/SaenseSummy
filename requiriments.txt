@@ -1,0 +1,8 @@
+transformers
+sentencepiece
+torch 
+torchvision 
+torchaudio
+requests
+beautifulsoup4
+urllib3
